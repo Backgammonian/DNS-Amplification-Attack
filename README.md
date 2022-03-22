@@ -6,5 +6,5 @@ These scripts were created during Networks and Communications course as coursewo
 * `dns_server_check.py` - checks if DNS-server is tolerant for query flood
 * `dns_amplification.py` - performs DNS amplification attack using target's IP-address and information about viable DNS-servers and queries with confirmed amplification ratio
 ## ⚠ Warning
-Before using these scripts be sure that you own or have permission for equipment you are performing stress-test on.\
+Before using these scripts be sure that you own (or have permission to) equipment you are performing this stress-test on.\
 This project was created in educational purposes only.
